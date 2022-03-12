@@ -8,7 +8,9 @@ Container images become containers at runtime and in the case of Docker containe
 
 Docker containers that run on Docker Engine:
 
-Standard: Docker created the industry standard for containers, so they could be portable anywhere
-Lightweight: Containers share the machine’s OS system kernel and therefore do not require an OS per application, driving higher server efficiencies and reducing server and licensing costs
-Secure: Applications are safer in containers and Docker provides the strongest default isolation capabilities in the industry
+Standard: Docker created the industry standard for containers, so they could be portable anywhere.
+
+Lightweight: Containers share the machine’s OS system kernel and therefore do not require an OS per application, driving higher server efficiencies and reducing server and licensing costs.
+
+Secure: Applications are safer in containers and Docker provides the strongest default isolation capabilities in the industry.
 
