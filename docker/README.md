@@ -14,3 +14,6 @@ Lightweight: Containers share the machine’s OS system kernel and therefore do 
 
 Secure: Applications are safer in containers and Docker provides the strongest default isolation capabilities in the industry.
 
+
+![Differences between Dockerfile and Docker Compose](https://linuxhandbook.com/docker-file-vs-docker-compose/)
+
